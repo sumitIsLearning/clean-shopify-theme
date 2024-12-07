@@ -43,9 +43,9 @@ shopify-theme/
 
 ## use 
 # shopify theme init --clone-url=https://github.com/sumitIsLearning/clean-shopify-theme.git
-# cd '<ToYourFolder>'
+# cd 'ToYourFolder'
 # shopify theme check
-# shopify thme dev --store '<Your Storename>'
+# shopify thme dev --store 'Your Storename'
 once connected to your store 
 next time you can just use 
 # shopify theme dev
