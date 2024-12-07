@@ -1,5 +1,3 @@
-# clean shopify theme
-# shopify theme layout
 shopify-theme/
 ├── layout/
 │   └── theme.liquid              # Main layout template
@@ -42,3 +40,13 @@ shopify-theme/
 ├── locales/
 │   ├── en.default.json           # Default English translations
 │   └── es.json                   # Spanish translations
+
+## use 
+# shopify theme init --clone-url=https://github.com/sumitIsLearning/clean-shopify-theme.git
+# cd <ToYourFolder>
+# shopify theme check
+# shopify thme dev --store <Your Storename>
+once connected to your store 
+next time you can just use 
+# shopify theme dev
+
